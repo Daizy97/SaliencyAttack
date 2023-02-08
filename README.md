@@ -1,4 +1,5 @@
 # Code for "Saliency Attack: Towards Imperceptible Black-box Adversarial Attack"
+This code is for reproducing the results in the paper, [Saliency Attack: Towards Imperceptible Black-box Adversarial Attack](https://dl.acm.org/doi/10.1145/3582563), just accepted by ACM Transactions on Intelligent Systems and Technology.
 
 ## Installation
 * Python 3.6
