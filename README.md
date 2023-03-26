@@ -17,7 +17,7 @@ pip install -r requirements.txt
 * For images
 ```
 mkdir val
-wget http://www.image-net.org/challenges/LSVRC/2012/nnoupb/ILSVRC2012_img_val.tar
+wget https://image-net.org/data/ILSVRC/2012/ILSVRC2012_img_val.tar
 tar -xf ILSVRC2012_img_val.tar -C val
 ```
 * For labels
